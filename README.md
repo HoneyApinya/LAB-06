@@ -38,12 +38,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic2.png)
  
  3.2).	โปรแกรม และบันทึกผลที่ได้<br>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.4.png?raw=true)<br>
+สามรถใส่รหัสได้เยอะกว่าเก่า
 
 4).	โปรแกรมสำหรับรับค่าตัวเลข เนื่องจากคำสั่ง ```Read()``` และ ```ReadLine()``` จะรับเฉพาะตัวอักษร การรับตัวเลข เราต้องใช้เมธอด TryParse() มาช่วยแปลงค่า
 
@@ -52,19 +48,12 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic3.png)
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้<br>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.5.png?raw=true)
 
 ###คำถาม 6.3 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร<br>
 <hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.6.png?raw=true)
+เกิดการแจ้งเตือนการผิดพลาด
 <hr>
 
 5).	โปรแกรมสำหรับรับค่าตัวเลข แต่ในบางกรณีที่ผู้ใช้ป้อนตัวอักษร จะทำให้เกิด error และทำให้โปรแกรม hang ได้ จึงต้องมีการป้องกันโดยใช้ประโยค ```try{…} catch{…}```  (ประโยค ```try{…} catch{…}``` นี้จะศึกษารายละเอียดภายหลัง)
@@ -74,26 +63,28 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic4.png)
 
   5.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้<br>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.7.png?raw=true)
+
 
 ###คำถาม 6.4 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร<br>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.8.png?raw=true)
 
 ##แบบฝึกหัด ให้เขียน code ในการรับค่าอินพุตต่อไปนี้และแสดงออกหน้าจอให้ถูกต้อง<br>
-``` Name :  (ป้อนชื่อของนักศึกษา). ```
+``` Name :  (ป้อนชื่อของนักศึกษา). 
+```
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.name.png?raw=true)
 
-``` Lastname : (ป้อนนามสกุลนักศึกษา).<br>```
+``` Lastname : (ป้อนนามสกุลนักศึกษา).
+```
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.sirname.png?raw=true)
 
-``` ID : (ป้อนรหัสนักศึกษา).```
+``` ID : (ป้อนรหัสนักศึกษา).
+```
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.id.png?raw=true)
 
-``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).<br>```
+``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).
+```
+![](https://github.com/HoneyApinya/LAB-06/blob/master/6.grade.png?raw=true)
+
